@@ -1,0 +1,19 @@
+{
+  "name": "firebase-image-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx tailwindcss -i ./src/input.css -o ./public/assets/css/style.css --watch"
+  },
+  "author": "mrgrootx",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  },
+  "type": "module",
+  "dependencies": {
+    "firebase": "^10.4.0",
+    "update-browserslist-db": "^1.0.13"
+  }
+}
